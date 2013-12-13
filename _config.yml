@@ -5,7 +5,7 @@ markdown: redcarpet
 pygments: true
 
 # Title
-name: DragonSlayersJR
+name: DragonSlayersJr
 subtitle: An information board for my Clash of Clans clan.
 
 # When using this template with a project page set the baseurl to '/project-name'
@@ -13,7 +13,7 @@ subtitle: An information board for my Clash of Clans clan.
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/proto-clashers'
+baseurl: '/DragonSlayersJr'
 
 # Author/Organization info to be displayed in the templates
 author:
