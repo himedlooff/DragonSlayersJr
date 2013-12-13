@@ -52,16 +52,15 @@
           //console.log(data);
           var i = 0,
               total = data.length,
-              $commits = $(),
-              $historyItemTemplate = $(
-                '<li class="post-history-list_item">' +
-                  '<p class="post-history-message"></p>' +
-                  '<p class="post-history-date"></p>' +
-                '</li>');
+              $commits = $()
 
           for ( i; i < total; i++ ) {
 
-            var $historyItem = $historyItemTemplate;;
+            var $historyItem = $(
+              '<li class="post-history-list_item">' +
+                '<p class="post-history-message"></p>' +
+                '<p class="post-history-date"></p>' +
+              '</li>');
 
             var timeStr = data[i].commit.committer.date;
             var date = new Date(timeStr);
@@ -73,8 +72,8 @@
             //console.log(data[i].commit.message);
             //console.log(dateStr);
 
-            $historyItemTemplate.find('.post-history-message').html(data[i].commit.message);
-            $historyItemTemplate.find('.post-history-date').html(dateStr);
+            $historyItem.find('.post-history-message').html(data[i].commit.message);
+            $historyItem.find('.post-history-date').html(dateStr);
 
             $commits = $commits.add( $historyItem );
 
