@@ -34,22 +34,58 @@
         <div class="post-history">
           <h1 class="post-history-label">History</h1>
           <ul class="post-history-list">
-            <li class="post-history-list_item">
-              <p class="post-history-message">Added accepting requests</p>
-              <p class="post-history-date">01:30pm - 12/09/2013</p>
-            </li>
-            <li class="post-history-list_item">
-              <p class="post-history-message">Added leaders</p>
-              <p class="post-history-date">12:15pm - 12/09/2013</p>
-            </li>
-            <li class="post-history-list_item">
-              <p class="post-history-message">Added basic info</p>
-              <p class="post-history-date">12:05pm - 12/09/2013</p>
-            </li>
+            
           </ul>
         </div>
       </div>
     </div>
+
+    <script src="assets/js/jquery-1.9.1.min.js"></script>
+    <script>
+    (function($)
+    {
+
+        $.get( 'https://api.github.com/repos/himedlooff/DragonSlayersJr/commits' ).done( init );
+
+        function init(data) {
+
+          console.log(data);
+          var i = 0,
+              total = data.length,
+              $commits = $(),
+              $historyItemTemplate = $(
+                '<li class="post-history-list_item">' +
+                  '<p class="post-history-message"></p>' +
+                  '<p class="post-history-date"></p>' +
+                '</li>');
+
+          for ( i; i < total; i++ ) {
+
+            var $historyItem = $historyItemTemplate;;
+
+            var timeStr = data[i].commit.committer.date;
+            var date = new Date(timeStr);
+            var day = date.getDate();
+            var year = date.getFullYear();
+            var month = date.getMonth()+1;
+            var dateStr = month+"/"+day+"/"+year;
+
+            console.log(data[i].commit.message);
+            console.log(dateStr);
+
+            $historyItemTemplate.find('.post-history-message').html(data[i].commit.message);
+            $historyItemTemplate.find('.post-history-date').html(dateStr);
+
+            $commits = $commits.add( $historyItem );
+
+          }
+
+          $('.post-history-list').html($commits);
+
+        }
+
+    }(jQuery));
+    </script>
 
     <script type="text/javascript">
       var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
