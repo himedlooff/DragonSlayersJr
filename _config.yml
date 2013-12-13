@@ -22,4 +22,4 @@ author:
 
 # Prose.io config options
 prose:
-  rooturl: "index.md"
+  rooturl: ""
