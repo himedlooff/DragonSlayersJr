@@ -62,6 +62,8 @@
                 '<p class="post-history-date"></p>' +
               '</li>');
 
+            var commitMessage = removePeriod(data[i].commit.message);
+
             var timeStr = data[i].commit.committer.date;
             var date = new Date(timeStr);
             var day = date.getDate();
@@ -72,7 +74,7 @@
             //console.log(data[i].commit.message);
             //console.log(dateStr);
 
-            $historyItem.find('.post-history-message').html(data[i].commit.message);
+            $historyItem.find('.post-history-message').html(commitMessage);
             $historyItem.find('.post-history-date').html(dateStr);
 
             $commits = $commits.add( $historyItem );
@@ -81,6 +83,15 @@
 
           $('.post-history-list').html($commits);
 
+        }
+
+        function removePeriod(str) {
+          lastCharacter = str.substring(str.length - 1);
+          if ( lastCharacter === "." ) {
+            return str.substring(0, str.length - 1);
+          } else {
+            return str;
+          }
         }
 
     }(jQuery));
