@@ -34,8 +34,26 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 **DragonSlayerJR** currently accept players of all levels.  (Website TBD)
 
-- Leader: wardogofengland
-- co-leader: L.A.S.E.R
+- Leader: L.A.S.E.R
+- co-leader: (TBD)
+
+# Current Events
+
+Active King/Queen Contest:
+
+When: From 12/23/2013 to 1/5/2014
+
+Rules: 
+
+1. The most active member who get the highest (DONATED + RECEIVED) in the two weeks period and the Donated:Received ratio is within 1:3 will be crowned Active King/Queen.  
+
+2. The members with the worse ratio than 1:3 are automatically disqualified from the contest.  
+
+3. In the event of a tie, which is highly unlikely, the tie breaker will go to the person who have the ratio closest to 1:1 and with a higher donation.
+
+# Past Winners of Clan's Contests
+
+1. The Active King/Queen: To be crowned on Sunday January 5th at 9:00pm EST (NY time).
 
 # Other COC Links
 
@@ -50,3 +68,9 @@ Want to know about the cost of your troops and the fastest way to train them?
 
 For latest information and contests to win free gems
 [https://www.facebook.com/ClashofClans](https://www.facebook.com/ClashofClans)
+
+# Web Designer and Contributors
+
+Web Designer: Himedlooff (Clan Elder)
+
+All information is maintained by Eagles.  Please contact Eagles for any corrections or suggestions.
