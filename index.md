@@ -39,17 +39,23 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 # Current Events
 
-Active King/Queen Contest:
+**Active King/Queen Contest**
 
-When: From 12/23/2013 to 1/5/2014
+**When:** From 12/23/2013 to 1/5/2014
 
-Rules: 
+**Who:** All can participate including leader and co-leader
+
+**Why:** To see who are active and who can be the most active
+
+**Rules:** 
 
 1. The most active member who get the highest (DONATED + RECEIVED) in the two weeks period and the Donated:Received ratio is within 1:3 will be crowned Active King/Queen.  
 
 2. The members with the worse ratio than 1:3 are automatically disqualified from the contest.  
 
 3. In the event of a tie, which is highly unlikely, the tie breaker will go to the person who have the ratio closest to 1:1 and with a higher donation.
+
+(We are mindful that this contest is held during the Christmas break in most countries and those who normally active may not be able to participate fully.  Likewise, those normally not very active may be able to play more, thus the result of this contest may surprise us all.  The main thing is to **have fun**.)
 
 # Past Winners of Clan's Contests
 
