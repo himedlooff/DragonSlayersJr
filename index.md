@@ -32,10 +32,10 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 # Sister/Feeder Clan Information
 
-**DragonSlayerJR** currently accept players of all levels.  (Website TBD)
+**DragonSlayerJR** currently accept players of all levels.  Elders from the main clan will come and help with donation and recruit.
 
 - Leader: L.A.S.E.R
-- co-leader: (TBD)
+- Co-leaders: (Selected elders from the main clain: Uncharted2000, Eagles, Himedlooff, AMMJRNguyen,...)
 
 # Current Events
 
@@ -55,11 +55,17 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 3. In the event of a tie, which is highly unlikely, the tie breaker will go to the person who have the ratio closest to 1:1 and with a higher donation.
 
-*(We are mindful that this contest is held during the Christmas break in most countries and those who normally active may not be able to participate fully.  Likewise, those normally not very active may be able to play more, thus the result of this contest may surprise us all.  The main thing is to have fun.)*
+*(We are mindful that this contest is held during the Christmas break in most countries and those who normally active may not be able to participate fully.  Likewise, those normally not very active may be able to play more, thus the result of this contest may surprise us all.  The main thing is to* ***have fun*** *.)*
 
 # Past Winners of Clan's Contests
 
+**Winners from DragonSlayersJr:**
+
 1. The Active King/Queen: To be crowned on Sunday January 5th at 9:00pm EST (NY time).
+
+**Winners from DragonSlayerJR (sister/feeder clan):**
+
+1. The Active King/Queen: (TBD)
 
 # Other COC Links
 
