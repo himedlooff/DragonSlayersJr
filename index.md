@@ -39,6 +39,49 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 # Current Events
 
+**NEW INFORMATION:** 
+
+**Formation of the new clan DragonSlayers-I:** 
+
+Our most active clan for level 65+ or minimum all troops level 4.  During the growing phase of this clan, the minimum donation will be based on the number of members in the clan.  Under 20 members: 500; 30+ members: 700; 40+ members: 1000.  Low doners will be asked to move to DragonSlayers-II or DragonSlayersJr.
+
+**Stage 1:** The formation of **DragonSlayers-I**
+
+1. We will select 8-10 strong/active (not 8-10 best) elders from DragonSlayersJr to form the startup group of DragonSlayers-I.  Prefered members with level 65 and up.
+2. These elders must be the chatty bunch to give the new clan the vibrante/active atmosphere
+3. These elders must give a strong and constant push to help recruit new players for **DragonSlayers-I**
+4. At the same time we will lower the requirement for **DragonSlayersJr** to ease with the recruiting of new members to make up for the lost of the 8-10 strong elders
+5. We will leave good and strong elders in **DragonSlayersJr** to make sure the clan continue to do well and grow.  REMEMBER that **DragonSlayersJr** is still our **main clan** at this early stage
+
+
+**Stage 2:** Growing both **DragonSlayers-I** and **DragonSlayersJr**
+
+1. Elders from both clans will recruit members and send new members to the appropriate clans
+2. To help us grow fast, we will set both clans to "Anyone can join" but set the trophies a little higher.  
+3. Once a new member join, we will point them to the website and ask them to move to the appropriate clan.  
+4. If the new members are not willing to move to the "lower" clan, we will let them stay for a few days then the leader will "kick" them with the message of asking them to join the appropriate clan.
+5. As **DragonSlayersJr** growing and reaching 45 members, we will slowly, one by one move qualify active elders to **DragonSlayers-I**
+6. Qualified elders from **DragonSlayerJR** will be promoted to **DragonSlayersJr**
+
+**Stage 3:** Reaching stability for both clans, **DragonSlayers-I** & **DragonSlayersJr**, and the creation of **DragonSlayers-II**
+
+1. If things are going well for both clan, in 1-2 months we should reach 35 stable members in **DragonSlayers-I** and 45 members in **DragonSlayersJr**
+2. If things go well, we should be able to move all qualified elders from **DragonSlayersJr** to **DragonSlayers-I**, at this point, **DragonSlayers-I** will become our **main clan**.
+3. The rest of the active players from **DragonSlayersJr** will move to another new clan **DragonSlayers-II**
+
+**Stage 4:** Merging of the remaining of **DragonSlayersJr** and **DragonSlayerJR**
+
+1. We will move all active players from **DragonSlayerJR** to merge with non-active players from **DragonSlayersJr**.  The non-active players from **DragonSlayersJr** will provide trophies and body for the clan to help recruit.
+2. The non-active players from **DragonSlayerJR** will be asked (kick) with the message to join **SlayersVacation**.  We will no longer have DragonSlayerJR
+
+**Stage 5:** The Creation of DragonSlayers-III
+
+1. Active players from **DragonSlayersJr** will move to **DragonSlayer-III**
+2. **DragonSlayersJr** will be disbanded so we can get rid of the "Jr" from our name.  If need be, we will create **DragonSlayers-IV** as the entry clan into our clan network
+
+
+**PREVIOUS WEEK**
+
 **Active King/Queen Contest**
 
 **When:** From 12/23/2013 to 1/5/2014
