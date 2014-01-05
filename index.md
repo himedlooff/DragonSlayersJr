@@ -110,11 +110,11 @@ Elder Requirement:  (subjected to change as our clan grow)
 
 **Winners from DragonSlayersJr:**
 
-1. The Active King/Queen: To be crowned on Sunday January 5th at 9:00pm EST (NY time).
+1. The Active King: **Alex Medich**  Donated 2617, Received 2167.  (1/5/2014)
 
 **Winners from DragonSlayerJR (sister/feeder clan):**
 
-1. The Active King/Queen: (TBD)
+1. The Active King:  **Pepe** Donated 1894, Received 1303.  (1/5/2014)
 
 # Other COC Links
 
