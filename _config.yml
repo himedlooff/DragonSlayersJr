@@ -13,12 +13,19 @@ subtitle: An information board for my Clash of Clans clan.
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/DragonSlayersJr'
+baseurl: 		'/DragonSlayersJr'
+baseurlremote:  '/DragonSlayersJr'
+assetsurl:      'assets/'
 
 # Author/Organization info to be displayed in the templates
 author:
   name: himedlooff
   url: https://github.com/himedlooff/
+
+# Google Analytics
+ga:
+  root: 'himedlooff.github.io'
+  id: 'UA-46323278-1'
 
 # Prose.io config options
 prose:
